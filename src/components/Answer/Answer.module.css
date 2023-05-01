@@ -1,0 +1,48 @@
+.answer {
+  margin: 40px 0;
+}
+.answer input {
+  width: 100%;
+  padding: 7px;
+  border-radius: 10px;
+  background-color: #80808085;
+  color: white;
+  font-weight: bold;
+}
+
+.answer button {
+  padding: 10px;
+  background-color: #4caf508c;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+  color: white;
+  font-weight: bold;
+}
+.correct {
+  border-radius: 23px;
+  background-color: #29ab29;
+  padding: 10px;
+  text-align: center;
+}
+.notcorrect {
+  background-color: #ff1515;
+  padding: 10px;
+  text-align: center;
+  border-radius: 23px;
+}
+.empty {
+  border-radius: 23px;
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+.p {
+  background: #ff000082;
+  width: fit-content;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 15px auto;
+  cursor: pointer;
+}
